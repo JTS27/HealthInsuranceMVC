@@ -1,0 +1,116 @@
+﻿@model IEnumerable<HealthInsurance.Models.Testimonial>
+
+@{
+    ViewData["Title"] = "Testimonial";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Testimonials</h4>
+            <table class="table table-striped mt-4">
+                <thead>
+                    <tr>
+                        <th> User </th>
+                        <th> Name </th>
+                        <th> Status </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="py-1">
+                                <img src="@Url.Content("~/Images/Users/" + item.User.Imagepath )" asp-append-version="true"/>
+                            </td>
+                            <td>
+                                @item.User.Fname @item.User.Lname
+                            </td>
+                            <td>
+                                @if (item.Status == 2)
+                                {
+                                    <label class="badge badge-warning">Pending</label>
+                                }
+                                else if(item.Status == 1)
+                                {
+                                    <label class="badge badge-success">Accepted</label>
+                                }
+                                else if (item.Status == 0)
+                                {
+                                    <label class="badge badge-danger">Rejected</label>
+                                }
+                            </td>
+                            <td>
+                                <a class="btn btn-dark btn-sm" asp-controller="Testimonials" asp-action="Edit" asp-route-id="@item.Id">Check</a>
+                                <a class="btn btn-danger btn-sm" asp-controller="Testimonials" asp-action="Delete" asp-route-id="@item.Id">delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* <h1>Testimonial</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+ *@

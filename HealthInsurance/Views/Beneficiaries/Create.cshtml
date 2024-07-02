@@ -1,0 +1,46 @@
+﻿@model HealthInsurance.Models.Beneficiary
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+
+<h1>Create</h1>
+
+<h4>Beneficiary</h4>
+<hr />
+<div class="row m-5">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data"> 
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" required/>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label class="control-label">Relative</label>
+                <select asp-for="Relative" class="form-control form-control-lg form-select" required>
+                    <option value="Husband">Husband</option>
+                    <option value="Wife">Wife</option>
+                    <option value="Son">Son</option>
+                    <option value="Daughter">Daughter</option>
+                </select>                <span asp-validation-for="Proofimage" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="ImageFile" class="control-label"></label>
+                <input asp-for="ImageFile" class="form-control" required />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="ms-3">
+    <a asp-action="Index">Back to List</a>
+</div>
+

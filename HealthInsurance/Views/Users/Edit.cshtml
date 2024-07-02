@@ -1,0 +1,171 @@
+﻿@model HealthInsurance.Models.User
+
+@{
+    ViewData["Title"] = "Edit";
+
+    if(ViewBag.RoleId == 1)
+        Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    else
+        Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row flex-lg-nowrap">
+        
+        <div class="col col-lg-12" >
+            <div class="row ">
+                <div class="col-12 col-lg-12 mt-5">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="e-profile">
+                                <form class="form" asp-action="Edit" enctype="multipart/form-data">
+                                    <input type="hidden" asp-for="Id" />
+                                    <input type="hidden" asp-for="Roleid" />
+                                    <input type="hidden" asp-for="Issub" />
+                                    <input type="hidden" asp-for="Imagepath" />
+                                    <div class="row">
+                                        <div class="col-12 col-sm-auto mb-3">
+                                            <div class="mx-auto" style="width: 140px;">
+                                                <div class="d-flex justify-content-center align-items-center rounded" style="height: 140px; background-color: rgb(233, 236, 239);">
+                                                    <img src="/Images/Users/@ViewBag.ImagePath" asp-append-version="true" width="140px" height="140pxs" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col d-flex flex-column flex-sm-row justify-content-between mb-3">
+                                            <div class="text-center text-sm-left mb-2 mb-sm-0">
+                                                <h4 class="pt-sm-2 pb-1 mb-0 text-nowrap">@ViewBag.Fname @ViewBag.Lname</h4>
+                                                <p class="mb-0">@ViewBag.Email</p>
+
+
+                                                @* <button class="btn btn-primary form-control" type="button" id="btn-input">
+                                                <i class="fa fa-fw fa-camera"></i>
+                                                <span>Change Photo</span>
+                                                </button> *@
+                                                <div class="form-group mt-4 text-start" >
+                                                    <label asp-for="ImageFile">Choose Image</label>
+                                                    <input asp-for="ImageFile" class="form-control"  />
+                                                </div>
+
+
+
+                                            </div>
+                                            <div class="text-center text-sm-right">
+                                                @if (ViewBag.RoleId == 1)
+                                                {
+                                                    <span class="badge badge-secondary">administrator</span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge badge-secondary">customer</span>
+                                                }
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <ul class="nav nav-tabs">
+                                    </ul>
+                                    <div class="tab-content pt-3">
+                                        <div class="tab-pane active">
+                                            <div class="row">
+                                                <div class="col">
+                                                    <div class="row">
+                                                        <div class="col">
+                                                            <div class="form-group">
+                                                                <label asp-for="Fname">First Name</label>
+                                                                <input asp-for="Fname" class="form-control" type="text" name="Fname" placeholder="@ViewBag.Fname" required>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div class="form-group">
+                                                                <label asp-for="Lname">Last Name</label>
+                                                                <input asp-for="Lname" class="form-control" type="text" name="Lname" placeholder="@ViewBag.Lname" required>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="row mb-5">
+                                                        <div class="col">
+                                                            <div class="form-group">
+                                                                <label asp-for="Email">Email</label>
+                                                                <input asp-for="Email" class="form-control" type="text" name="Email" placeholder="@ViewBag.Email" required>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col">
+                                                            <div class="form-group">
+                                                                <label asp-for="Password">Password</label>
+                                                                <input asp-for="Password" class="form-control" type="password" name="Password" required>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="form-group col d-flex justify-content-end">
+                                                    <button class="btn btn-primary" type="submit">Save Changes</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                @*<div class="col-4 col-lg-auto col-md-3 mb-3">
+                </div>*@
+            </div>
+        </div>
+    </div>
+</div>
+
+@* <h1>Edit</h1>
+
+<h4>User</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Roleid" class="control-label"></label>
+                <select asp-for="Roleid" class="form-control" asp-items="ViewBag.Roleid"></select>
+                <span asp-validation-for="Roleid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Imagepath" class="control-label"></label>
+                <input asp-for="Imagepath" class="form-control" />
+                <span asp-validation-for="Imagepath" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fname" class="control-label"></label>
+                <input asp-for="Fname" class="form-control" />
+                <span asp-validation-for="Fname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lname" class="control-label"></label>
+                <input asp-for="Lname" class="form-control" />
+                <span asp-validation-for="Lname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+ *@

@@ -1,0 +1,81 @@
+﻿@model HealthInsurance.Models.Beneficiary
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form asp-action="Edit">
+    <div class="row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="Subscriptionid" />
+        <input type="hidden" asp-for="Proofimage" />
+        <input type="hidden" asp-for="Name" />
+        <input type="hidden" asp-for="Relative" />
+    </div>
+    <div class="row">
+        <div class="form-group col-2 mt-3">
+            <select asp-for="Status" class="form-control form-control-lg form-select">
+                <option value="2">Pending</option>
+                <option value="1">Accept</option>
+                <option value="0">Reject</option>
+            </select>
+        </div>
+    </div>
+
+
+
+    @*             <div class="form-group">
+    <label asp-for="Status" class="control-label"></label>
+    <input asp-for="Status" class="form-control" />
+    <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+    *@            <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
+
+
+<div>
+    <a asp-action="Beneficiary" asp-controller="Admin">Back to List</a>
+</div>
+
+@* <h4>Beneficiary</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Subscriptionid" class="control-label"></label>
+                <select asp-for="Subscriptionid" class="form-control" asp-items="ViewBag.Subscriptionid"></select>
+                <span asp-validation-for="Subscriptionid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Proofimage" class="control-label"></label>
+                <input asp-for="Proofimage" class="form-control" />
+                <span asp-validation-for="Proofimage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <input asp-for="Status" class="form-control" />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+ *@

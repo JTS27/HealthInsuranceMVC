@@ -1,0 +1,1533 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HealthInsurance.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HealthInsurance.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\AuthAssets\\bg.jpg",
+      "PackagePath": "staticwebassets\\AuthAssets\\bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\AuthAssets\\logo.png",
+      "PackagePath": "staticwebassets\\AuthAssets\\logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\AuthAssets\\style.css",
+      "PackagePath": "staticwebassets\\AuthAssets\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\DashboardAssets\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\DashboardAssets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\DashboardAssets\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\DashboardAssets\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\DashboardAssets\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\DashboardAssets\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\DashboardAssets\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\feature.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-01-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-01-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-01-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-01-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-02-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-02-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-02-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-02-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-03-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-03-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-03-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-03-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-04-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-04-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-04-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-04-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-05-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-05-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-05-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-05-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-06-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-06-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-06-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-06-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-07-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-07-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-07-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-07-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-08-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-08-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-08-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-08-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-09-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-09-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-09-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-09-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-10-light.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-10-light.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\icon\\icon-10-primary.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\icon\\icon-10-primary.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\profile.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\HomeAssets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\js\\main.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\HomeAssets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\HomeAssets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\HomeAssets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Beneficiaries\\02426adf-6dec-450e-868f-29363f1e6404admin.png",
+      "PackagePath": "staticwebassets\\Images\\Beneficiaries\\02426adf-6dec-450e-868f-29363f1e6404admin.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Beneficiaries\\ec9edd2a-8a89-499d-959c-22a1654bb2bfadmin.png",
+      "PackagePath": "staticwebassets\\Images\\Beneficiaries\\ec9edd2a-8a89-499d-959c-22a1654bb2bfadmin.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Beneficiaries\\f38b42e4-23c1-48be-986f-3a1e7f729b43admin2.png",
+      "PackagePath": "staticwebassets\\Images\\Beneficiaries\\f38b42e4-23c1-48be-986f-3a1e7f729b43admin2.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Services\\05926512-1a81-4560-b4e4-f57dc3b2850121ee.png",
+      "PackagePath": "staticwebassets\\Images\\Services\\05926512-1a81-4560-b4e4-f57dc3b2850121ee.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Services\\61790d0f-3543-4003-b295-3e50d3e8f7fesdsd.png",
+      "PackagePath": "staticwebassets\\Images\\Services\\61790d0f-3543-4003-b295-3e50d3e8f7fesdsd.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Services\\806dc95e-f9b4-4d2d-8fa7-99c136b911dbsdsd.png",
+      "PackagePath": "staticwebassets\\Images\\Services\\806dc95e-f9b4-4d2d-8fa7-99c136b911dbsdsd.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Services\\ac360d1f-318c-442e-b4aa-7dc052a2d92b21ee.png",
+      "PackagePath": "staticwebassets\\Images\\Services\\ac360d1f-318c-442e-b4aa-7dc052a2d92b21ee.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Services\\b3bcbde1-b210-431f-8dff-f6efb217a47821ee.png",
+      "PackagePath": "staticwebassets\\Images\\Services\\b3bcbde1-b210-431f-8dff-f6efb217a47821ee.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Services\\eaf91f4a-12ab-4533-be73-3ee020a0c35asdsd.png",
+      "PackagePath": "staticwebassets\\Images\\Services\\eaf91f4a-12ab-4533-be73-3ee020a0c35asdsd.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\01bdc479-8fc8-4712-a361-4c063da9f6d4Accept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\01bdc479-8fc8-4712-a361-4c063da9f6d4Accept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\08a00b85-034c-499e-9716-00d0f7ba3c2cadmin2.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\08a00b85-034c-499e-9716-00d0f7ba3c2cadmin2.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\0aa7c21e-9ce2-4124-bd91-3b9ecaa64550wwwwwwwwww.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\0aa7c21e-9ce2-4124-bd91-3b9ecaa64550wwwwwwwwww.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\0ef4700d-d8d7-4490-8fc0-b79302a86d08asdasdasdad.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\0ef4700d-d8d7-4490-8fc0-b79302a86d08asdasdasdad.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\1864f25e-1f1c-4f08-975b-100e23196e031223.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\1864f25e-1f1c-4f08-975b-100e23196e031223.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\222fdadc-88cd-4673-8177-112f300121031024px-User_(17241)_-_The_Noun_Project.svg.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\222fdadc-88cd-4673-8177-112f300121031024px-User_(17241)_-_The_Noun_Project.svg.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\25cac993-47ab-4e05-a777-42c8546cc9d1admin2.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\25cac993-47ab-4e05-a777-42c8546cc9d1admin2.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\2eae4dbe-a363-49e1-af71-4c4a27115a69admin2.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\2eae4dbe-a363-49e1-af71-4c4a27115a69admin2.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\2ef00aa0-342d-4c1c-ac39-fde926fd83f23100405.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\2ef00aa0-342d-4c1c-ac39-fde926fd83f23100405.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\3541e220-cf0b-4cf9-a84c-89d7fdbe8b30wefwf.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\3541e220-cf0b-4cf9-a84c-89d7fdbe8b30wefwf.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\40ca7cda-9668-4b62-8040-7957bbc4d204asdasdasdad.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\40ca7cda-9668-4b62-8040-7957bbc4d204asdasdasdad.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\4d9e0fb6-39bc-4a37-8b53-f46e8bcb6928asdasdasdad.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\4d9e0fb6-39bc-4a37-8b53-f46e8bcb6928asdasdasdad.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\4f64d795-8c67-4038-996f-4801b390d7ebAccept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\4f64d795-8c67-4038-996f-4801b390d7ebAccept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\52a573e4-283a-45e4-b05c-7754e988287cadmin - Copy.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\52a573e4-283a-45e4-b05c-7754e988287cadmin - Copy.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\5b715d78-8e08-4ec4-8ac1-d0439e0667a0Accept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\5b715d78-8e08-4ec4-8ac1-d0439e0667a0Accept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\65073c44-7d44-4e12-9811-671802bfb079photo_2023-09-30_12-16-52.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\65073c44-7d44-4e12-9811-671802bfb079photo_2023-09-30_12-16-52.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\6dd81f13-7b82-4146-8f7c-5bb2416d86961024px-User_(17241)_-_The_Noun_Project.svg.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\6dd81f13-7b82-4146-8f7c-5bb2416d86961024px-User_(17241)_-_The_Noun_Project.svg.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\70f8eb0d-c207-44e3-ac96-313ab18aef08asdas.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\70f8eb0d-c207-44e3-ac96-313ab18aef08asdas.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\7101bf14-6d9d-4468-b65d-03a5fd47bed3Accept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\7101bf14-6d9d-4468-b65d-03a5fd47bed3Accept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\7f3eae22-5b38-40d5-be58-c141f97230f0Screenshot 2023-09-28 101803.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\7f3eae22-5b38-40d5-be58-c141f97230f0Screenshot 2023-09-28 101803.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\8261d375-9f21-4f5d-a970-0cdce3c16002wwwwwwwwww.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\8261d375-9f21-4f5d-a970-0cdce3c16002wwwwwwwwww.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\9976cc3c-96ad-420c-9524-422543521982Accept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\9976cc3c-96ad-420c-9524-422543521982Accept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\a38bb994-1333-43cd-af17-957e1344025b3100405.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\a38bb994-1333-43cd-af17-957e1344025b3100405.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\a7fe7557-abdf-4971-90ba-4c97e60c7ad9Accept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\a7fe7557-abdf-4971-90ba-4c97e60c7ad9Accept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\a987f09b-acb0-4d64-a642-b7b3686fba17admin.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\a987f09b-acb0-4d64-a642-b7b3686fba17admin.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\aa49a901-6df2-4794-a7db-6541f53cb593ART_4738 copy.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\aa49a901-6df2-4794-a7db-6541f53cb593ART_4738 copy.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\b1952f30-d219-451c-ad62-4fba2ef15300Accept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\b1952f30-d219-451c-ad62-4fba2ef15300Accept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\bbfa0f07-93a4-4243-8f9d-842c9894e1b5Accept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\bbfa0f07-93a4-4243-8f9d-842c9894e1b5Accept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\c200c013-c6e8-4088-b379-9176463dc0d9admin - Copy.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\c200c013-c6e8-4088-b379-9176463dc0d9admin - Copy.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\cbb19b4c-abc6-4c1e-b696-17ab1359640dAccept-a-job-offer.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\cbb19b4c-abc6-4c1e-b696-17ab1359640dAccept-a-job-offer.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\cfc2c47c-9d6c-4b12-8538-531aeb116decphoto_2023-09-30_12-16-52.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\cfc2c47c-9d6c-4b12-8538-531aeb116decphoto_2023-09-30_12-16-52.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\d2560eca-7f22-4b6d-907a-35c8e668f0d6Screenshot 2023-10-16 143211.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\d2560eca-7f22-4b6d-907a-35c8e668f0d6Screenshot 2023-10-16 143211.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\ea3d3fa8-3378-44bc-bcb0-cacc667ba84aVector-Avatar-1024x1024.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\ea3d3fa8-3378-44bc-bcb0-cacc667ba84aVector-Avatar-1024x1024.png"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\Images\\Users\\f9f83999-2142-4020-bc9e-32ef5feaa0bfphoto_2023-09-30_12-16-52.jpg",
+      "PackagePath": "staticwebassets\\Images\\Users\\f9f83999-2142-4020-bc9e-32ef5feaa0bfphoto_2023-09-30_12-16-52.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\HealthInsurance\\HealthInsurance\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HealthInsurance.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HealthInsurance.props",
+      "PackagePath": "build\\HealthInsurance.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HealthInsurance.props",
+      "PackagePath": "buildMultiTargeting\\HealthInsurance.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HealthInsurance.props",
+      "PackagePath": "buildTransitive\\HealthInsurance.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
